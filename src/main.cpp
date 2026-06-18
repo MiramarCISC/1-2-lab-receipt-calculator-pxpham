@@ -1,6 +1,6 @@
 #include <iomanip>
 #include <iostream>
-#include "receipt.hpp"
+#include "../include/receipt.hpp"
 
 using namespace std;
 

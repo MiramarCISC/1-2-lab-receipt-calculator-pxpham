@@ -12,13 +12,13 @@ int main() {
 
     cout << "Receipt Calculator" << endl << endl;
 
-    cout << "Enter price for item 1: ";
+    cout << "Enter price for item 1/3: ";
     cin >> item1;
 
-    cout << "Enter price for item 2: ";
+    cout << "Enter price for item 2/3: ";
     cin >> item2;
 
-    cout << "Enter price for item 3: ";
+    cout << "Enter price for item 3/3: ";
     cin >> item3;
 
     cout << "Enter tip percentage: ";
